@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marc1an4k
-- 👀 I’m interested in  aprender  cosas importantes de la programación  y aprender github.
+- 👀 I’m interested in always learn new things
 - 🌱 I’m currently learning  JavaScript.
 - 💞️ Me gustan los gatoos.
 - 📫 How to reach me uhuh.
