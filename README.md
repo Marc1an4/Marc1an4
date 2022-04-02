@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marc1an4k
+- 👋 Hi, I’m @Marc1an4
 - 👀 I’m interested in always learn new things
 - 🌱 I’m currently learning  JavaScript.
 - 💞️ Me gustan los gatoos.
