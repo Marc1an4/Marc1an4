@@ -1,5 +1,5 @@
 - Hi, I’m @Marc1an4
--  I'm a technical student in software programming and I learn web development on my own.
+-  I'm a technical student in software programming and I'm learning web development on my own.
 -  Always wanting to learn new things
 -  I’m currently learning  CSS3.
 -  Currently my skills are: HTML5, CSS3 and a bit of JavaScript
