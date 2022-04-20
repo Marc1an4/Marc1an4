@@ -2,7 +2,7 @@
 -  I'm a technical student in software programming and I'm learning web development on my own.
 -  Always wanting to learn new things
 -  I’m currently learning  flexbox.
--  Currently my skills are: HTML5, CSS3 and a bit of JavaScript
+-  Currently my skills are: HTML5 and CSS3.
 -  I'm 16 years old.
 -   
 -  How to reach me uhuh.
