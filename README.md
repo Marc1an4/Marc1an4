@@ -1,7 +1,7 @@
 - Hi, I’m @Marc1an4
 -  I'm a technical student in software programming and I'm learning web development on my own.
 -  Always wanting to learn new things
--  I’m currently learning  flexbox.
+-  I’m currently learning JavaScript.
 -  Currently my skills are: HTML5 and CSS3.
 -  I'm 16 years old.
 -   
