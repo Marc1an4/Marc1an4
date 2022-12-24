@@ -1,7 +1,7 @@
 - Hi, I’m @Marc1an4
--  I'm learning web development on my own.
--  Always wanting to learn new things
--  I’m currently learning JavaScript.
+-  software development student.
+-  Always wanting to learn new things.
+-  I’m currently learning Vue.js
 -  Currently my skills are: HTML5, CSS3 and JavaScript.
 -  I'm 16 years old.
 -   
