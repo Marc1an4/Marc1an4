@@ -1,4 +1,4 @@
-- Hi, I’m @Marc1an4
+- Hi, I’m Mariana Rodríguez.
 -  software development student.
 -  Always wanting to learn new things.
 -  I’m currently learning SQL.
