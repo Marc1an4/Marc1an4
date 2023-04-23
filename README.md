@@ -1,9 +1,9 @@
 - Hi, I’m @Marc1an4
 -  software development student.
 -  Always wanting to learn new things.
--  I’m currently learning Vue.js
+-  I’m currently learning SQL.
 -  Currently my skills are: HTML5, CSS3 and JavaScript.
--  I'm 16 years old.
+-  I'm 17 years old.
 -   
 -  How to reach me uhuh.
    Juliethmariana4321@gmail.com
