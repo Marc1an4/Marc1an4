@@ -1,7 +1,7 @@
 - Hi, I’m Mariana Rodríguez.
 -  software development student.
 -  Always learning new things.
--  Currently being happy.
+-  Currently learning Node.js.
 -  17 years old.
 -   
 -  How to reach me uhuh.
