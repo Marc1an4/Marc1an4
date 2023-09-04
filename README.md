@@ -1,4 +1,3 @@
-```markdown
 ## Hello, I'm Mariana Rodríguez!
 
 - Software development student.
@@ -11,4 +10,4 @@
 
 **Feel free to reach out to me at:**
 Email: Juliethmariana4321@gmail.com
-```
+
