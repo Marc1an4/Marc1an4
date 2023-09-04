@@ -1,14 +1,14 @@
 ```markdown
-**Hello, I'm Mariana Rodríguez!**
+__Hello, I'm Mariana Rodríguez!__
 
 - Software development student.
 - always eager to learn new things.
 - 17 years old.
 
-**Here's a glimpse of my tech stack:**
-HTML, CSS, JavaScript & Node.js
+__Here's a glimpse of my tech stack:__
+- HTML, CSS, JavaScript & Node.js
 - I'm currently learning **Express.js**.
 
-**Feel free to reach out to me at:**
+__Feel free to reach out to me at:__
 Email: Juliethmariana4321@gmail.com
 ```
