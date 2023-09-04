@@ -9,5 +9,5 @@
 - I'm currently learning **Express.js**.
 
 **Feel free to reach out to me at:**
-Email: Juliethmariana4321@gmail.com
+Juliethmariana4321@gmail.com
 
