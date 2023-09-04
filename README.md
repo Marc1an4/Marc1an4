@@ -1,32 +1,23 @@
 ```markdown
-# About Me
+### Hi, I'm Mariana Rodríguez! 👋
 
-Hello! 👋 I'm Mariana Rodríguez, a passionate software development student who's always eager to learn new things and explore the world of technology.
-
-## Skills
-
-I'm proficient in the following technologies:
+I'm a software development enthusiast, constantly exploring new horizons in the world of code. Currently, my journey includes mastering:
 
 - HTML
 - CSS
 - JavaScript
 - Node.js
 
-Currently, I'm diving into Express.js to further enhance my web development skills.
+🚀 I'm currently diving deeper into Express.js to amplify my web development skills.
 
-## About Me
+### About Me
 
-I'm 17 years old, and I'm excited to be on this journey of growth and discovery in the tech industry.
+- 🎓 I'm 17 years old and passionate about software development.
+- 🌱 Always eager to learn and grow in this ever-evolving field.
 
-## Contact
+### Contact Me
 
-Feel free to reach out to me at:
+📧 Feel free to connect with me at:
+
 - Email: Juliethmariana4321@gmail.com
-
-Let's connect and learn together!
 ```
-
-This improved README provides a more structured and informative overview of who you are, your skills, and how to contact you. It also adds a friendly and welcoming tone to engage with potential collaborators or readers.
-Marc1an4/Marc1an4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
