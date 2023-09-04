@@ -1,5 +1,5 @@
 ```markdown
-**Hello, I'm Mariana Rodríguez!**
+## Hello, I'm Mariana Rodríguez!
 
 - Software development student.
 - always eager to learn new things.
