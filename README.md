@@ -1,26 +1,14 @@
 ```markdown
-👋 Hello, I'm Mariana Rodríguez!
+**Hello, I'm Mariana Rodríguez!**
 
-I'm an enthusiastic software development student, always eager
-to learn new things.
+- Software development student.
+- always eager to learn new things.
+- 17 years old.
 
-I'm currently exploring Express.js to boost my web development skills.
+**Here's a glimpse of my tech stack:**
+HTML, CSS, JavaScript & Node.js
+- I'm currently learning **Express.js**.
 
-🚀 Here's a glimpse of my tech stack:
-
-HTML
-CSS
-JavaScript
-Node.js
-
-About Me
-🎓 I'm 17 and deeply enthusiastic about software development,
-striving to excel in this ever-evolving realm.
-
-Get in Touch
-Feel free to reach out to me at:
-
-📧 Email: Juliethmariana4321@gmail.com
-
-
+**Feel free to reach out to me at:**
+Email: Juliethmariana4321@gmail.com
 ```
