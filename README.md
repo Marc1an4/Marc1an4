@@ -5,7 +5,7 @@
 - 17 years old.
 
 **Here's a glimpse of my tech stack:**
-- HTML, CSS, JavaScript & Node.js
+- HTML, CSS, JavaScript, Node.js & Python.
 - I'm currently learning **Express.js**.
 
 **Feel free to reach out to me at:**
