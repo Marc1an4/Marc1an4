@@ -5,8 +5,8 @@
 - 17 years old.
 
 **Here's a glimpse of my tech stack:**
-- HTML, CSS, JavaScript, Node.js & Python.
-- I'm currently learning **Express.js**.
+- HTML, CSS, JavaScript, Express.js, Vue.js & Python.
+- I'm currently learning **Nuxt.js**.
 
 **Feel free to reach out to me at:**
 Juliethmariana4321@gmail.com
