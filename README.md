@@ -5,7 +5,7 @@
 - 17 years old.
 
 **Here's a glimpse of my tech stack:**
-- HTML, CSS, JavaScript, Express.js, Vue.js & Python.
+- HTML, CSS, JavaScript, Node.js, Express.js, Vue.js & Python.
 - I'm currently learning **Nuxt.js**.
 
 **Feel free to reach out to me at:**
