@@ -2,7 +2,7 @@
 
 - Software development student.
 - always eager to learn new things.
-- 17 years old.
+- 18 years old.
 
 **Here's a glimpse of my tech stack:**
 - HTML, CSS, JavaScript, Node.js, Express.js, Vue.js & Python.
