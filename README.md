@@ -5,7 +5,7 @@
 - 18 years old.
 
 **Here's a glimpse of my tech stack:**
-- HTML, CSS, JavaScript, Node.js, Express.js, Vue.js & Python.
+- HTML, CSS, JavaScript, TypeScript, Node.js, Express.js, Vue.js & Python.
 - I'm currently learning **DSA**.
 
 **Feel free to reach out to me at:**
