@@ -1,6 +1,6 @@
 ## Hello, I'm Mariana Rodríguez!
 
-- Software development student.
+- Software developer.
 - always eager to learn new things.
 - 18 years old.
 
