@@ -2,7 +2,7 @@
 
 - Software developer.
 - always eager to learn new things.
-- 18 years old.
+- 19 years old.
 
 **Here's a glimpse of my tech stack:**
 - HTML, CSS, JavaScript, TypeScript, Node.js, Express.js, React.js & Python.
