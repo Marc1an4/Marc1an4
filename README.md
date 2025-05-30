@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg" alt="Mariana Rodríguez Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Mariana Rodríguez</h1>
 
 <p align="center">
