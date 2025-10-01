@@ -8,7 +8,7 @@
   <a href="mailto:juliethmariana4321@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mariana-rodriguez-54a04b228/">
+  <a href="https://www.linkedin.com/in/julieth-mariana-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
