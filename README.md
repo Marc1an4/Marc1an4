@@ -44,7 +44,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: [Juliethmariana4321@gmail.com](mailto:Juliethmariana4321@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mariana-rodriguez](https://www.linkedin.com/in/julieth-mariana-rodriguez/)
+- 💼 LinkedIn: [linkedin.com/in/julieth-mariana-rodriguez](https://www.linkedin.com/in/julieth-mariana-rodriguez/)
 
 ---
 
