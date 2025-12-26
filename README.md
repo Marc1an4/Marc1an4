@@ -20,7 +20,6 @@
 - 💼 **Software Developer at Mercado Libre**
 - 🎓 Software and Data Engineering student.
 - 🌱 Currently strengthening my skills in **Cloud Computing, AWS and AI Automation**.
-- 🤖 Interested in workflow automation using tools like **n8n**.
 - 💡 Always eager to explore new technologies and improve my expertise.
 - 🗣️ Languages: Spanish (native), English (C1).
 
