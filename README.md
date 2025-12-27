@@ -28,10 +28,12 @@
 ### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,aws,postgres,postman,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,aws,postgres,postman,git,github,docker" alt="Tech Stack" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Convex-000000?style=flat&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 </p>
