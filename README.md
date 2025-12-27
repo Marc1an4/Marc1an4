@@ -32,6 +32,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Convex-000000?style=flat&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat&logo=openai&logoColor=white" />
