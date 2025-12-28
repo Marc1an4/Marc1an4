@@ -28,7 +28,7 @@
 ### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,aws,postgres,postman,git,github,docker,jest" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,aws,postgres,postman,git,github,docker,jest,sass" alt="Tech Stack" />
 </p>
 
 <p align="center">
